@@ -19,4 +19,4 @@ This application uses the OpenWeatherMap API to retrieve weather data. You can r
 - **Clean and Intuitive UI**: The user interface is designed to be clean and easy to use.
 
 ### Screenshots
-![Weather App Screenshot](Weather App/images/clouds.png)
+![Weather App Screenshot](https://github.com/Husseini97/JavaScript_Projects/blob/main/Weather%20App/images/mist.png)
