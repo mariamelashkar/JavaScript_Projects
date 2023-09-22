@@ -20,7 +20,6 @@ This application uses the OpenWeatherMap API to retrieve weather data. You can r
 
 ### Screenshots
 <div align="center">
- <img src="https://github.com/Husseini97/JavaScript_Projects/blob/main/Weather%20App/images/screenshot3.png" height="300" style="margin-right: 20px;"  />
   <img src="https://github.com/Husseini97/JavaScript_Projects/blob/main/Weather%20App/images/screenshot.png" height="300" />
   <img src="https://github.com/Husseini97/JavaScript_Projects/blob/main/Weather%20App/images/screenshot4.png" height="300" />
  
