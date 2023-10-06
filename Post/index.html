@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Book Store</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Book Store Portal</h1>
+    <div id="postForm" class="post-form">
+        <h2>List a new book</h2>
+        <form>
+            <div class="form-group">
+                <label for="title">Author:</label>
+                <input type="text" id="title" required>
+            </div>
+            <div class="form-group">
+                <label for="body">Book title:</label>
+                <textarea id="body" class="smaller-textarea" required></textarea>
+            </div>
+            <div class="form-group">
+                <label for="userId">Quantity:</label>
+                <input type="number" id="userId" required>
+            </div>
+            
+            <button id="submit" class="submit-button">Submit</button>
+        </form>
+    </div>
+    <div id="postList" class="post-list">
+        <!-- Fetched and updated data will be displayed here -->
+    </div>
+    <script src="script.js"></script>
+</body>
+</htm
