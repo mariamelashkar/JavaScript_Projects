@@ -11,24 +11,26 @@
         <h2>List a new book</h2>
         <form>
             <div class="form-group">
-                <label for="title">Author:</label>
-                <input type="text" id="title" required>
+                <label for="author">Author:</label>
+                <input type="text" id="author" required>
             </div>
             <div class="form-group">
-                <label for="body">Book title:</label>
-                <textarea id="body" class="smaller-textarea" required></textarea>
+                <label for="name">Book title:</label>
+                <input type="text" id="name" required>
             </div>
             <div class="form-group">
-                <label for="userId">Quantity:</label>
-                <input type="number" id="userId" required>
+                <label for="quantity">Quantity:</label>
+                <input type="number" id="quantity" required>
             </div>
             
             <button id="submit" class="submit-button">Submit</button>
+            <button id="viewAllBooks">View All Books</button>
+
         </form>
     </div>
-    <div id="postList" class="post-list">
+    <div id="bookList" class="post-list">
         <!-- Fetched and updated data will be displayed here -->
     </div>
     <script src="script.js"></script>
 </body>
-</htm
+</html>
