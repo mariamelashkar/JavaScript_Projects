@@ -1,4 +1,4 @@
-# JavaScript Projects 💻
+# Fullstack_Project 💻
 
 ## Weather Application Project ☀️
 
